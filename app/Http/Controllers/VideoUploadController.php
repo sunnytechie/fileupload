@@ -37,7 +37,7 @@ class VideoUploadController extends Controller
 
        //send email
         $file_path = "uploads/$name";
-        $recipient = "sfghbmedia@gmail.com";
+        $recipient = "sunnyict001@gmail.com";
 
         Mail::to($recipient)->send(new FileUploadMail($file_path));
 

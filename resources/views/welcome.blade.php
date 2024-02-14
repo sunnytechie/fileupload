@@ -74,7 +74,7 @@
                     <div class="col-md-4 offset-md-4 my-4">
                          <div class="card mt-5 pb-3">
                               <div class="card-header">
-                              <h3 class="text-center py-3" style="color: #282828; font-weight: 500">Upload Convention Invite Video</h3>
+                              <h4 class="text-center py-3" style="color: #282828; font-weight: 400">Upload Convention Invite Video</h4>
                               </div>
                               <div class="card-body">
                                 <form id="fileUploadForm" method="POST" action="{{ route('post.video') }}" enctype="multipart/form-data">

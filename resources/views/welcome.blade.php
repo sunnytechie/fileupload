@@ -48,6 +48,14 @@
             border-radius: 10px;
 
         }
+
+        .img-responsive {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100px;
+            height: 100px;
+        }
     </style>
 
 </head>
@@ -72,7 +80,8 @@
                <div class="row">
 
                     <div class="col-md-4 offset-md-4 my-4">
-                         <div class="card mt-5 pb-3">
+                            <img class="img-responsive" src="https://sfiloveinaction.org/wp-content/uploads/2022/07/cropped-SFI-Logo.png" class="img-fluid" alt="SFI Logo">
+                         <div class="card mt-3 pb-3">
                               <div class="card-header">
                               <h4 class="text-center py-3" style="color: #282828; font-weight: 400">Upload Convention Invite Video</h4>
                               </div>

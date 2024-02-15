@@ -92,7 +92,7 @@
                                         <input name="file" type="file" accept=".mp4, .webm, .mkv, .avi, .flv, .3gp, .mov, .wmv, .ts" class="form-control dropify" data-max-file-size="200M" required>
                                     </div>
                                     <div class="d-grid mb-3">
-                                        <button type="submit" class="btn btn-primary btn-lg text-white" style="background: #282828; border-radius: 20px">
+                                        <button type="submit" class="btn btn-primary btn-lg text-white" style="background: #282828; border-radius: 40px">
                                             <span style="margin-right: 8px">Send your video</span>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-upload" viewBox="0 0 16 16">
                                                 <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5"/>
